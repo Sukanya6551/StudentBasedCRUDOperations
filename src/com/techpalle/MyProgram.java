@@ -2,8 +2,6 @@ package com.techpalle;
 
 import java.sql.SQLException;
 
-import com.techpalle.model.A;
-
 public class MyProgram {
 
 	public static void main(String[] args) {

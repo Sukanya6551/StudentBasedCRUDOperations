@@ -1,4 +1,4 @@
-package com.techpalle.model;
+package com.techpalle;
 
 import java.sql.*;
 
